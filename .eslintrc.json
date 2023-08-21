@@ -16,7 +16,7 @@
     "no-console": "off",
     "no-undefined": "off",
     "indent": ["error", 2],
-    "quotes": ["warn", "single"],
+    "quotes": ["off"],
     "no-multi-spaces": [
       "warn",
       {
